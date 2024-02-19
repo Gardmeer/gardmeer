@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="(https://twitter.com/gardmeer/header_photo)">
+<img src="https://twitter.com/gardmeer/header_photo">
 <!--
 **Gardmeer/gardmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
