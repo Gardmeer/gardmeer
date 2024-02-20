@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-(https://github.com/Gardmeer/gardmeer/blob/main/GardDev%20BannerMini.png)
+![https://github.com/gardmeer](https://github.com/Gardmeer/gardmeer/blob/main/GardDev%20BannerMini.png)
 <!--
 **Gardmeer/gardmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
