@@ -1,6 +1,11 @@
-# Hi there 👋
+# Hello there, my name is Gabriel Garzón Casas 👋
+
+## Freelance Android Developer
 
 ![https://github.com/gardmeer](https://github.com/Gardmeer/gardmeer/blob/main/GardDev%20BannerMini.png)
+
+![Twitch Status](https://img.shields.io/twitch/status/gardmeer)
+
 <!--
 **Gardmeer/gardmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
