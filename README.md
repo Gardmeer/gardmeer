@@ -1,4 +1,4 @@
-# Hello there, my name is Gabriel Garzón Casas 👋
+# Hello there 👋, I'm Gabriel Garzón Casas 
 
 ## Freelance Android Developer
 
