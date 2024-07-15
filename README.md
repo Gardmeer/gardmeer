@@ -10,6 +10,12 @@
 [![Static Badge](https://img.shields.io/badge/X-A00000?style=social&logo=x&label=%40Gardmeer)](https://twitter.com/gardmeer)
 [![Static Badge](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&label=%40Gardmeer)](https://www.instagram.com/gardmeer)
 
+I am an Electronics Engineer, I worked in robotics projects in college using Arduino, that is how I got into programming.
+
+After a few years working in other areas like televison broadcasting and biomedical equipment I went back to coding and started getting into Android development.
+
+I'm dedicated to developing Android Apps and video games.
+
 # Technologies
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&labelColor=000000&color=424242)
@@ -17,6 +23,16 @@
 ![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c%23&logoColor=%238A2BE2&labelColor=000000&color=%234566A3)
 ![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&labelColor=000000&color=%234F4F4F)
 
+# Some Projects:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/U4yfVVJkb-k?si=kaAtq5iwVqFQzxrH">
+<img src="https://github.com/Gardmeer/gardmeer/blob/main/HolaSalo.gif"width="288">
+</a>
+</td>
+</tr>
 <!--
 **Gardmeer/gardmeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
