@@ -10,7 +10,7 @@
 [![Static Badge](https://img.shields.io/badge/X-A00000?style=social&logo=x&label=%40Gardmeer)](https://twitter.com/gardmeer)
 [![Static Badge](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&label=%40Gardmeer)](https://www.instagram.com/gardmeer)
 
-I am an Electronics Engineer, I worked in robotics projects in college using Arduino, that is how I got into programming.
+I am an Electronics Engineer, I worked on robotics projects in college using Arduino, that is how I got into programming.
 
 After a few years working in other areas like televison broadcasting and biomedical equipment I went back to coding and started getting into Android development.
 
