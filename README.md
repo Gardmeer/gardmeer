@@ -5,11 +5,11 @@
 ![https://github.com/gardmeer](https://github.com/Gardmeer/gardmeer/blob/main/GardDev%20BannerMini.png)
 
 [![Twitch Status](https://img.shields.io/twitch/status/gardmeer)](https://www.twitch.tv/gardmeer)
-[![Static Badge](https://img.shields.io/badge/YouTube-FFFFFF?style=social&logo=youtube&labelColor=000000&color=%234F4F4F)](https://www.youtube.com/@Gardmeer)
-[![Static Badge](https://img.shields.io/badge/Facebook-000000?style=social&logo=facebook&label=GardDev)](https://www.facebook.com/gardmeer)
-[![Static Badge](https://img.shields.io/badge/X-A00000?style=social&logo=x&label=%40Gardmeer)](https://twitter.com/gardmeer)
-[![Static Badge](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&label=%40Gardmeer)](https://www.instagram.com/gardmeer)
-[![Static Badge](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok&label=%40Gardmeer)](https://www.tiktok.com/@gardmeer)
+[![Static Badge](https://img.shields.io/badge/-FFFFFF?style=social&logo=youtube&label=GarDev&color=%234F4F4F)](https://www.youtube.com/@Gardmeer)
+[![Static Badge](https://img.shields.io/badge/-000000?style=social&logo=facebook&label=GardDev)](https://www.facebook.com/gardmeer)
+[![Static Badge](https://img.shields.io/badge/-A00000?style=social&logo=x&label=%40Gardmeer)](https://twitter.com/gardmeer)
+[![Static Badge](https://img.shields.io/badge/-000000?style=social&logo=instagram&label=%40Gardmeer)](https://www.instagram.com/gardmeer)
+[![Static Badge](https://img.shields.io/badge/-000000?style=social&logo=tiktok&label=%40Gardmeer)](https://www.tiktok.com/@gardmeer)
 
 I am an Electronics Engineer, I worked on robotics projects in college using Arduino, that is how I got into programming.
 
@@ -21,9 +21,9 @@ I'm dedicated to developing Android Apps and video games.
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&labelColor=000000&color=%237F52FF)
 ![Static Badge](https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&labelColor=000000&color=%23389C45)
-![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=csharp&labelColor=000000&color=%234566A3)
+![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c%2B%2B&labelColor=000000&color=%23991AF0)
 ![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&labelColor=000000&color=%23FFFFFF)
-![Static Badge](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine&labelColor=000000&color=%23389AEB)
+![Static Badge](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine&labelColor=000000&color=%232A74B0)
 
 # Some Projects:
 
