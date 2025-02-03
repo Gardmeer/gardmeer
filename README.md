@@ -9,6 +9,7 @@
 [![Static Badge](https://img.shields.io/badge/Facebook-000000?style=social&logo=facebook&label=GardDev)](https://www.facebook.com/gardmeer)
 [![Static Badge](https://img.shields.io/badge/X-A00000?style=social&logo=x&label=%40Gardmeer)](https://twitter.com/gardmeer)
 [![Static Badge](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&label=%40Gardmeer)](https://www.instagram.com/gardmeer)
+[![Static Badge](https://img.shields.io/badge/TikTok-000000?style=social&logo=tiktok&label=%40Gardmeer)](https://www.tiktok.com/@gardmeer)
 
 I am an Electronics Engineer, I worked on robotics projects in college using Arduino, that is how I got into programming.
 
@@ -18,10 +19,11 @@ I'm dedicated to developing Android Apps and video games.
 
 # Technologies
 
-![Static Badge](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&labelColor=000000&color=424242)
+![Static Badge](https://img.shields.io/badge/Kotlin-FFFFFF?style=for-the-badge&logo=kotlin&labelColor=000000&color=%237F52FF)
 ![Static Badge](https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&labelColor=000000&color=%23389C45)
-![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c%23&logoColor=%238A2BE2&labelColor=000000&color=%234566A3)
-![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&labelColor=000000&color=%234F4F4F)
+![Static Badge](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=csharp&labelColor=000000&color=%234566A3)
+![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&labelColor=000000&color=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Godot-FFFFFF?style=for-the-badge&logo=godot-engine&labelColor=000000&color=%23389AEB)
 
 # Some Projects:
 
